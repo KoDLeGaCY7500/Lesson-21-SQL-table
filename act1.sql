@@ -1,0 +1,34 @@
+-- CREATE TABLE supplier (
+--    SNO TEXT PRIMARY KEY,
+--    SNAME TEXT,
+--    STATUS INTEGAR,
+--    CITY TEXT
+-- );
+-- INSERT INTO supplier (SNO,SNAME,STATUS,CITY) VALUES
+-- ('S1','SMITH',20,'LONDON'),
+-- ('S2','GONG-YOO',10,'BUSAN'),
+-- ('S3','DANIEL',30,'CALIFORNIA'),
+-- ('S4','IBRAHIM',20,'ISTANBUL'),
+-- ('S5','RAJESH',30,'MUMBAI'),
+-- ('S6','ABRAR',20,'DHAKA'),
+-- ('S7','BO-FANG',10,'SHANGHAI'),
+-- ('S8','IMRAN',20,'KARACHI'),
+-- ('S9','KENJI',30,'OSAKA'),
+-- ('S10','LOUIS',20,'PARIS'),
+-- ('S11','MATTE',10,'ROME'),
+-- ('S12','ALEJANDRO',20,'MADRID'),
+-- ('S13','DIEGO',30,'BEUNOS ARES'),
+-- ('S14','EDUARDO',20,'RIO DE JANERIO'),
+-- ('S15','VLADIMIR',10,'MOSCOW'),
+-- ('S16','ABDULLAH',20,'DUBAI'),
+-- ('S17','ALI',30,'BEIRUT'),
+-- ('S18','NASIR',20,'AL RIYADH'),
+-- ('S19','APOLLO',10,'ATHENS'),
+-- ('S20','TOBIAS',20,'STOCKHOLM'),
+-- ('S21','JUSTIN',30,'TORONTO'),
+-- ('S22','JUAN',20,'TIJUANA'),
+-- ('S23','ADELE',10,'BERLIN'),
+-- ('S24','BIMA',20,'JAKARTA'),
+-- ('S25','LUKAS',30,'VIENNA');
+
+SELECT * FROM supplier
